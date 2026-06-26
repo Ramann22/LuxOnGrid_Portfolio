@@ -1,0 +1,11 @@
+UPLOAD THESE DIRECTLY TO YOUR GITHUB REPOSITORY ROOT:
+
+1) index.html
+2) .nojekyll
+3) graphics folder (all images and video preview images)
+4) videos folder (all MP4 files)
+
+Do NOT upload the ZIP file.
+Do NOT create an extra parent folder.
+
+After commit, Vercel will redeploy automatically.
